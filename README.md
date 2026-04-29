@@ -9,7 +9,7 @@ It is created for practice and basic understanding of array concepts.
 * Rotate Array
 * Move Zeroes
 * Find Duplicates
-* Majority Element (n/3)
+* Majority Element(n/3)
 * Maximum Subarray Sum
 * Two Sum
 * Count Occurrences
